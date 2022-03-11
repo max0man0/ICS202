@@ -1,2 +1,2 @@
-# ICS202
+# ICS202_Project
 My lab project for ICS202
